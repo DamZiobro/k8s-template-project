@@ -64,3 +64,8 @@ XMementoIT Kubernetes Development Environment - template project for kubernetes-
   * kind-based [k8s cluster](https://www.vmware.com/topics/glossary/content/kubernetes-cluster.html)
   * local [docker registry](https://docs.docker.com/registry/)
   * all project-related docker containers and docker-images
+
+## Based on course
+
+This project has been prepared based on course: [Kubernetes: Your First
+Project](https://www.linkedin.com/learning/kubernetes-your-first-project/your-first-project-on-kubernetes?u=0)
