@@ -65,7 +65,7 @@ Kubernetes Development Environment - template project for kubernetes-based DevOp
   * local [docker registry](https://docs.docker.com/registry/)
   * all project-related docker containers and docker-images
 
-## Based on course
+## Based on Linkedin course
 
 This project has been prepared based on course: [Kubernetes: Your First
 Project](https://www.linkedin.com/learning/kubernetes-your-first-project/your-first-project-on-kubernetes?u=0)
